@@ -1,5 +1,13 @@
 # simpleFizzBuzz
 
+## usage 
+
+```bash
+npm install
+npm test
+npm start 100
+```
+
 ## FizzBuzz とは
 
 - 1から100までの数字を標準出力する
